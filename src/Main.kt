@@ -15,7 +15,7 @@ fun main() {
     //Переменные для задачи 6
     val a = 10
     val b = 3
-    print("""
+    println("""
         |Периметр квадрата 1 = ${square1A * 4}
         |Площадь квадрата 2 = ${square2A * square2A}
         |Периметр прямоугольника = ${2 * (rectangleA + rectangleB)}
